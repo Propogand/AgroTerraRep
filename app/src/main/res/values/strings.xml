@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AgroTerra</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="message_open_field">Вы хотите открыть форму для данного поля?</string>
+    <string name="count_weeds">Количество сорняков на кв. метр</string>
+    <string name="field_area">Площадь поля</string>
+    <string name="total_count_weeds">Количество сорняков</string>
+    <string name="comment">Комментарий</string>
+    <string name="field_id">ID поля</string>
+    <string name="data_send">Отправить данные</string>
+    <string name="ok">Ок</string>
+    <string name="cancel">Отмена</string>
+    <string name="attention">Внимание!</string>
+    <string name="error">Произошла ошибка при загрузке данных, попробовать еще раз?</string>
+    <string name="no_ethernet">Отсутствует подключение к интернету, попробовать еще раз?</string>
+    <string name="no_ethernet_load_saved_data">Отсутствует подключение к интернету, загрузить сохраненные данные?</string>
+    <string name="success_create_act">Акт успешно отправлен на сервер</string>
+
+    <!-- Заголовки Action Bar -->
+    <string name="title_map">Карта</string>
+    <string name="title_form">Форма заполнения</string>
+    <string name="title_result">Результат</string>
+
+    <string name="loading">Загрузка</string>
+    <string name="please_wait">Пожалуйста, подождите...</string>
+    <string name="calture">Культура</string>
+    <string name="field_name">Наименование поля</string>
+    <string name="divider">Divider</string>
+</resources>
